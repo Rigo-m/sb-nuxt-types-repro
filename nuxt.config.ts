@@ -4,6 +4,7 @@ import { defineNuxtConfig } from "nuxt3";
 export default defineNuxtConfig({
   modules: [
     '@/modules/testModule',
+    '@nuxtjs/tailwindcss',
   ],
   build: {
     postcss: {

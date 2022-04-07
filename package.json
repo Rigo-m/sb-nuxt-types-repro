@@ -8,6 +8,7 @@
   },
   "devDependencies": {
     "@nuxt/kit": "npm:@nuxt/kit-edge@latest",
+    "@nuxtjs/tailwindcss": "^5.0.2",
     "@storybook/addon-essentials": "^6.5.0-alpha.39",
     "@storybook/addon-postcss": "^2.0.0",
     "@storybook/vue3": "^6.5.0-alpha.39",
