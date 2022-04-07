@@ -7,11 +7,12 @@
     "storybook": "start-storybook -p 6006 -s ./public,./assets"
   },
   "devDependencies": {
+    "@nuxt/kit": "npm:@nuxt/kit-edge@latest",
     "@storybook/addon-essentials": "^6.5.0-alpha.39",
     "@storybook/addon-postcss": "^2.0.0",
     "@storybook/vue3": "^6.5.0-alpha.39",
     "autoprefixer": "^10.4.2",
-    "nuxt3": "latest",
+    "nuxt3": "^3.0.0-27488954.9fbb9be",
     "postcss": "^8.4.6",
     "storybook-builder-vite": "^0.1.15",
     "tailwindcss": "^3.0.18"
